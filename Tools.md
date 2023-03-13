@@ -89,3 +89,13 @@ Erase bg - www.erase.bg
 Design Resourc - https://designresourc.es/
 <br>
 toools design - www.toools.design
+<br>
+<br>
+
+
+# Development Tools
+hype4.academy - https://hype4.academy/tools
+<br>
+css box shadow - https://getcssscan.com/css-box-shadow-examples
+<br>
+<br>
